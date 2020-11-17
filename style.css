@@ -1,0 +1,31 @@
+body {background-color: #c1ebe5;}
+#wrapper {
+    width: 30%;
+    margin: 50px auto;
+    padding: 50px;
+    background: #07b4b4;
+  }
+  form {
+    margin: 30px auto;
+  }
+  .text_input {
+    border: none;
+    height: 28px;
+    margin: 2px;
+    border: 1px solid #a4b493;
+    font-size: 1.2em;
+    padding: 5px;
+    width: 95%;
+  }
+  .text_input:focus {
+    outline: none;
+  }
+  .btn {
+    width: 98.6%;
+    border: none;
+    margin-top: 5px;
+    color: white;
+    background-color: #031b31;
+    border-radius: 5px;
+    padding: 12px;
+  }
